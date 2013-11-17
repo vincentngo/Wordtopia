@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>GRE Words</key>
+	<dict>
+		<key>Date Created</key>
+		<date>2012-12-17T06:03:41Z</date>
+		<key>all the words</key>
+		<dict/>
+	</dict>
+	<key>Harry Potter</key>
+	<dict>
+		<key>Date Created</key>
+		<date>2012-12-17T06:03:38Z</date>
+		<key>all the words</key>
+		<dict/>
+	</dict>
+	<key>The Awesome book</key>
+	<dict>
+		<key>Date Created</key>
+		<date>2012-12-17T06:03:34Z</date>
+		<key>all the words</key>
+		<dict/>
+	</dict>
+	<key>Cheese Cake</key>
+	<dict>
+		<key>Date Created</key>
+		<date>2012-12-17T06:03:27Z</date>
+		<key>all the words</key>
+		<dict/>
+	</dict>
+	<key>Fire Eaters In The Deep</key>
+	<dict>
+		<key>Date Created</key>
+		<date>2012-12-17T06:03:24Z</date>
+		<key>all the words</key>
+		<dict>
+			<key>maieutic</key>
+			<dict>
+				<key>maieutic</key>
+				<dict>
+					<key>definitions</key>
+					<array>
+						<string>:relating to or resembling the Socratic method of eliciting new ideas from another</string>
+					</array>
+					<key>examples</key>
+					<array/>
+					<key>type</key>
+					<string>adjective</string>
+				</dict>
+				<key>number of context</key>
+				<integer>0</integer>
+				<key>pronunciation</key>
+				<string>mā-ˈyü-tik, mī</string>
+				<key>soundFile</key>
+				<string>http://media.merriam-webster.com/soundc11/m/maieut01.wav</string>
+			</dict>
+			<key>gorgonize</key>
+			<dict>
+				<key>gorgonize</key>
+				<dict>
+					<key>definitions</key>
+					<array>
+						<string>:to have a paralyzing or mesmerizing effect on :</string>
+					</array>
+					<key>examples</key>
+					<array/>
+					<key>type</key>
+					<string>verb</string>
+				</dict>
+				<key>number of context</key>
+				<integer>0</integer>
+				<key>pronunciation</key>
+				<string>ˈgȯr-gə-ˌnīz</string>
+				<key>soundFile</key>
+				<string>http://media.merriam-webster.com/soundc11/g/gorgon04.wav</string>
+			</dict>
+			<key>espresso</key>
+			<dict>
+				<key>espresso</key>
+				<dict>
+					<key>definitions</key>
+					<array>
+						<string>:coffee brewed by forcing steam or hot water through finely ground darkly roasted coffee beans</string>
+						<string>:a cup of espresso</string>
+					</array>
+					<key>examples</key>
+					<array/>
+					<key>type</key>
+					<string>noun</string>
+				</dict>
+				<key>number of context</key>
+				<integer>0</integer>
+				<key>pronunciation</key>
+				<string>e-ˈspre-(ˌ)sō</string>
+				<key>soundFile</key>
+				<string>http://media.merriam-webster.com/soundc11/e/espres01.wav</string>
+			</dict>
+		</dict>
+	</dict>
+</dict>
+</plist>

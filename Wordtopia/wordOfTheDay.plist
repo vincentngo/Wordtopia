@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intersperse</key>
+	<dict>
+		<key>intersperse</key>
+		<dict>
+			<key>definitions</key>
+			<array>
+				<string>:to place something at </string>
+				<string>:to insert at intervals among other things </string>
+			</array>
+			<key>examples</key>
+			<array>
+				<string>You should intersperse these pictures evenly throughout the book.</string>
+				<string>Some seagulls were interspersed among the ducks.</string>
+			</array>
+			<key>type</key>
+			<string>verb</string>
+		</dict>
+		<key>number of context</key>
+		<integer>0</integer>
+		<key>pronuciation</key>
+		<string>ˌin-tər-ˈspərs</string>
+		<key>soundFile</key>
+		<string>http://media.merriam-webster.com/soundc11/i/inters15.wav</string>
+	</dict>
+	<key>attack</key>
+	<dict>
+		<key>attack[1]</key>
+		<dict>
+			<key>definitions</key>
+			<array>
+				<string>:to set upon or work against forcefully</string>
+				<string>:to assail with unfriendly or bitter words</string>
+				<string>:to begin to affect or to act on injuriously </string>
+				<string>:to set to work on </string>
+				<string>:to threaten (a piece in chess) with immediate capture</string>
+				<string>:to make an attack</string>
+			</array>
+			<key>examples</key>
+			<array>
+				<string>He attacked the guard with a knife.</string>
+				<string>Troops attacked the fortress at dawn.</string>
+				<string>The troops attacked at dawn.</string>
+				<string>People are attacking the mayor for breaking campaign promises.</string>
+				<string>The professor has been widely attacked for her position on the issue.</string>
+				<string>Did you see the way the kids attacked that pizza?</string>
+			</array>
+			<key>type</key>
+			<string>verb</string>
+		</dict>
+		<key>attack[2]</key>
+		<dict>
+			<key>definitions</key>
+			<array>
+				<string>:the act of </string>
+				<string>assault</string>
+				<string>:a belligerent or antagonistic action</string>
+				<string>:a fit of sickness</string>
+				<string>:an active episode of a chronic or recurrent disease</string>
+				<string>:a period of being strongly affected by something (as a desire or mood)</string>
+				<string>:an offensive or scoring action </string>
+				<string>:offensive players or the positions taken up by them</string>
+				<string>:the setting to work on some undertaking </string>
+				<string>:the beginning of destructive action (as by a chemical agent)</string>
+				<string>:the act or manner of beginning a musical tone or phrase</string>
+			</array>
+			<key>examples</key>
+			<array>
+				<string>The immune system is the body&apos;s defense against attack by germs.</string>
+				<string>The spray protects plants from attacks by many common pests.</string>
+				<string>The surprise attack came at dawn.</string>
+				<string>There is a threat of nuclear attack.</string>
+				<string>There have been many attacks against the professor for her position on the issue.</string>
+				<string>The newspaper editorial is an attack on policy-makers.</string>
+			</array>
+			<key>type</key>
+			<string>noun</string>
+		</dict>
+		<key>attack[3]</key>
+		<dict>
+			<key>definitions</key>
+			<array>
+				<string>:designed, planned, or used for carrying out a military attack </string>
+			</array>
+			<key>examples</key>
+			<array>
+				<string>The bombers were in attack formation.</string>
+			</array>
+			<key>type</key>
+			<string>adjective</string>
+		</dict>
+		<key>number of context</key>
+		<integer>3</integer>
+		<key>pronunciation</key>
+		<string>ə-ˈtak</string>
+		<key>soundFile</key>
+		<string>http://media.merriam-webster.com/soundc11/a/attack01.wav</string>
+	</dict>
+	<key>espresso</key>
+	<dict>
+		<key>espresso</key>
+		<dict>
+			<key>definitions</key>
+			<array>
+				<string>:coffee brewed by forcing steam or hot water through finely ground darkly roasted coffee beans</string>
+				<string>:a cup of espresso</string>
+			</array>
+			<key>examples</key>
+			<array/>
+			<key>type</key>
+			<string>noun</string>
+		</dict>
+		<key>number of context</key>
+		<integer>0</integer>
+		<key>pronunciation</key>
+		<string>e-ˈspre-(ˌ)sō</string>
+		<key>soundFile</key>
+		<string>http://media.merriam-webster.com/soundc11/e/espres01.wav</string>
+	</dict>
+	<key>gorgonize</key>
+	<dict>
+		<key>gorgonize</key>
+		<dict>
+			<key>definitions</key>
+			<array>
+				<string>:to have a paralyzing or mesmerizing effect on :</string>
+			</array>
+			<key>examples</key>
+			<array/>
+			<key>type</key>
+			<string>verb</string>
+		</dict>
+		<key>number of context</key>
+		<integer>0</integer>
+		<key>pronunciation</key>
+		<string>ˈgȯr-gə-ˌnīz</string>
+		<key>soundFile</key>
+		<string>http://media.merriam-webster.com/soundc11/g/gorgon04.wav</string>
+	</dict>
+	<key>maieutic</key>
+	<dict>
+		<key>maieutic</key>
+		<dict>
+			<key>definitions</key>
+			<array>
+				<string>:relating to or resembling the Socratic method of eliciting new ideas from another</string>
+			</array>
+			<key>examples</key>
+			<array/>
+			<key>type</key>
+			<string>adjective</string>
+		</dict>
+		<key>number of context</key>
+		<integer>0</integer>
+		<key>pronunciation</key>
+		<string>mā-ˈyü-tik, mī</string>
+		<key>soundFile</key>
+		<string>http://media.merriam-webster.com/soundc11/m/maieut01.wav</string>
+	</dict>
+</dict>
+</plist>
